@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jmacro.dev-new/static/css/main.1566e31f.css",
+    "main.js": "/jmacro.dev-new/static/js/main.5a4da64d.js",
+    "static/js/787.4e81618d.chunk.js": "/jmacro.dev-new/static/js/787.4e81618d.chunk.js",
+    "index.html": "/jmacro.dev-new/index.html",
+    "main.1566e31f.css.map": "/jmacro.dev-new/static/css/main.1566e31f.css.map",
+    "main.5a4da64d.js.map": "/jmacro.dev-new/static/js/main.5a4da64d.js.map",
+    "787.4e81618d.chunk.js.map": "/jmacro.dev-new/static/js/787.4e81618d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1566e31f.css",
+    "static/js/main.5a4da64d.js"
+  ]
+}
